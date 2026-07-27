@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 <p>Enthusiastic Full-Stack Developer with strong OOP principles and a passion for building user-friendly software. Capable of working across frontend, backend, and mobile, I focus on delivering readable code and continuously improving my technical skills.</p>
-- 🚒  I’m currently working on ResQ, a disaster relief platform (Mobile).
-- 🌱  I’m currently learning Dart, Next.js and TypeScript.  
-- 🎯  Goal: Ship functional, real-world applications that effectively solve practical user problems. 
-- 📫  Reach me: chalongkiet.bp@gmail.com | [LinkedIn](⟪url⟫)
+- 🚒  I’m currently working on ResQ, a disaster relief platform (Mobile).<br>
+- 🌱  I’m currently learning Dart, Next.js and TypeScript.<br>  
+- 🎯  Goal: Ship functional, real-world applications that effectively solve practical user problems.<br> 
+- 📫  Reach me: chalongkiet.bp@gmail.com | <a url=""></a>)
 
 ---
 
