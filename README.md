@@ -3,20 +3,21 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
+  <strong>Full-stack Developer • Mobile Developer • Lifelong Learner</strong><br/>
   <em>“Turning ideas into delightful, scalable software.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+<p>Enthusiastic Full-Stack Developer with strong OOP principles and a passion for building user-friendly software. Capable of working across frontend, backend, and mobile, I focus on delivering readable code and continuously improving my technical skills.</p>
+- 🚒  I’m currently working on ResQ, a disaster relief platform (Mobile).
+- 🌱  I’m currently learning Dart, Next.js and TypeScript.  
+- 🎯  Goal: Ship functional, real-world applications that effectively solve practical user problems. 
+- 📫  Reach me: chalongkiet.bp@gmail.com | [LinkedIn](⟪url⟫)
 
 ---
 
