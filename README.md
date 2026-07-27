@@ -50,8 +50,8 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪chalongkiet.bp@gmail.com⟫   
-- ✍️ GitHup : [Chalongkiet](⟪url⟫)
+- 💌 Email: chalongkiet.bp@gmail.com   
+- ✍️ GitHup : [Chalongkiet](⟪[url](https://github.com/Chalongkiet)⟫)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
