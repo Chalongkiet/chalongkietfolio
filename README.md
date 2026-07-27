@@ -17,7 +17,7 @@
 - 🚒  I’m currently working on ResQ, a disaster relief platform (Mobile).<br>
 - 🌱  I’m currently learning Dart, Next.js and TypeScript.<br>  
 - 🎯  Goal: Ship functional, real-world applications that effectively solve practical user problems.<br> 
-- 📫  Reach me: chalongkiet.bp@gmail.com | <a url=""></a>)
+- 📫  Reach me: chalongkiet.bp@gmail.com | <a url="https://github.com/Chalongkiet/chalongkietfolio.git">GitHub</a>)
 
 ---
 
