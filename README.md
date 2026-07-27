@@ -51,7 +51,7 @@
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: chalongkiet.bp@gmail.com   
-- ✍️ GitHup : [url](https://github.com/Chalongkiet)
+- ✍️ GitHup : [Chalongkiet](https://github.com/Chalongkiet)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
