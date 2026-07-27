@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 
-<h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Chalongkiet Buapun </h1>
 
 <p align="center">
   <strong>Full-stack Developer • Mobile Developer • Lifelong Learner</strong><br/>
