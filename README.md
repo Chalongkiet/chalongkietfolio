@@ -5,7 +5,7 @@
 
 </p>
 
-<h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi!+I'm+Chalongkiet+Buapun" alt="Typing SVG" /></a>
 
 <p align="center">
   <strong>Software Developer • Mobile Developer • Lifelong Learner</strong><br/>
