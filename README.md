@@ -1,6 +1,26 @@
 <!-- Banner / Cover -->
+<svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chalongkiet Buapun">
+    <defs>
+      <linearGradient id="titleGradient" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%"  stop-color="#6EE7B7"/>
+        <stop offset="50%" stop-color="#60A5FA"/>
+        <stop offset="100%" stop-color="#A78BFA"/>
+      </linearGradient>
+      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.15"/>
+      </filter>
+    </defs>
 
-<h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> </h1>
+    <g filter="url(#shadow)">
+      <text x="50%" y="70" text-anchor="middle" font-family="Segoe UI, Roboto, system-ui, -apple-system, 'Helvetica Neue', Arial" font-weight="700" font-size="42" fill="url(#titleGradient)">
+        Hi, I’m Chalongkiet Buapun 👋
+      </text>
+    </g>
+
+    <!-- small decorative line under title -->
+    <line x1="260" x2="640" y1="96" y2="96" stroke="#e6edf8" stroke-width="2" stroke-linecap="round" opacity="0.9" />
+  </svg>
+
 
 <p align="center">
   <strong>Software Developer • Mobile Developer • Lifelong Learner</strong><br/>
