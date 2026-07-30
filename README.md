@@ -9,16 +9,8 @@
       <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
         <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.15"/>
       </filter>
+        <h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> </h1>
     </defs>
-
-    <g filter="url(#shadow)">
-      <text x="50%" y="70" text-anchor="middle" font-family="Segoe UI, Roboto, system-ui, -apple-system, 'Helvetica Neue', Arial" font-weight="700" font-size="42" fill="url(#titleGradient)">
-        Hi, I’m Chalongkiet Buapun 👋
-      </text>
-    </g>
-
-    <!-- small decorative line under title -->
-    <line x1="260" x2="640" y1="96" y2="96" stroke="#e6edf8" stroke-width="2" stroke-linecap="round" opacity="0.9" />
   </svg>
 
 
