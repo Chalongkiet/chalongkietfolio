@@ -1,5 +1,5 @@
 <!-- Banner / Cover -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:4F46E5,100:06B6D4&text=Hi!%20I'm%20Chalongkiet%20Buapun&fontSize=45&fontColor=ffffff" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:4F46E5,100:06B6D4&text=Hi!%20I'm%20Chalongkiet%20Buapun%20👋&fontSize=45&fontColor=ffffff" /> </p>
 
 <!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
