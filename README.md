@@ -4,8 +4,7 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 
 </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi!+I'm+Chalongkiet+Buapun" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi!+I'm+Chalongkiet+Buapun" alt="Typing SVG" /></a></h1>
 
 <p align="center">
   <strong>Software Developer • Mobile Developer • Lifelong Learner</strong><br/>
