@@ -1,18 +1,5 @@
 <!-- Banner / Cover -->
-<svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chalongkiet Buapun">
-    <defs>
-      <linearGradient id="titleGradient" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%"  stop-color="#6EE7B7"/>
-        <stop offset="50%" stop-color="#60A5FA"/>
-        <stop offset="100%" stop-color="#A78BFA"/>
-      </linearGradient>
-      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.15"/>
-      </filter>
-        <h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> </h1>
-    </defs>
-  </svg>
-
+<h1 align="center">Hi, I’m Chalongkiet Buapun <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> </h1>
 
 <p align="center">
   <strong>Software Developer • Mobile Developer • Lifelong Learner</strong><br/>
