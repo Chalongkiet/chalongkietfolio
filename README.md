@@ -35,7 +35,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| 🚒 ResQ | Flutter · Firebase · REST API | Disaster Relief & Emergency Response Platform featuring Real-time Location Sharing, Rescue Mission Management, Evacuation Route Guidance & Live Status Timeline | [Repo](⟪url⟫) |
+| 🚒 ResQ | Flutter · Firebase · REST API | Disaster Relief & Emergency Response Platform featuring Real-time Location Sharing, Rescue Mission Management, Evacuation Route Guidance & Live Status Timeline | [Repo](⟪[url](https://github.com/Chalongkiet/ResQ)⟫) |
 
 ---
 
