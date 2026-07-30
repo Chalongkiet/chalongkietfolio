@@ -1,9 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4" />
-</p>
-
-<h1 align="center">
+  <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Chalongkiet+BuaPhan"
@@ -11,6 +8,9 @@
     />
   </a>
 </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4" />
+</p>
+
 
 <p align="center">
   <strong>Software Developer • Mobile Developer • Lifelong Learner</strong><br/>
