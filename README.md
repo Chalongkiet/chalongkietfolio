@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+Developer;Spring+Boot+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Chalongkiet%20BuaPhan&fontSize=45&fontColor=ffffff" />
 </p>
 
 
