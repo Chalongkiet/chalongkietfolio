@@ -101,8 +101,8 @@ Enthusiastic Software Developer with strong OOP principles and a passion for bui
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪ResQ🚒⟫** | Flutter · Dart · Firebase · Cloud Firestore | SOS assistance requests, request status tracking, disaster maps and alerts, personal emergency profiles, and rescue mission management with real-time navigation | [Repo](⟪(https://github.com/Chalongkiet/ResQ)⟫)|
-| **⟪Moodle▶️⟫** | Java · Spring Boot · MySQL · JSP · HTML · CSS · JavaScript | Music streaming, mood-based playlists, song discovery, favorites, listening history, and user authentication | [Repo](⟪(https://github.com/Chalongkiet/Moodle)⟫) |
+| **⟪ResQ🚒⟫** | Flutter · Dart · Firebase · Cloud Firestore | SOS assistance requests, request status tracking, disaster maps and alerts, personal emergency profiles, and rescue mission management with real-time navigation | [Repo](⟪[url](https://github.com/Chalongkiet/ResQ)⟫)|
+| **⟪Moodle▶️⟫** | Java · Spring Boot · MySQL · JSP · HTML · CSS · JavaScript | Music streaming, mood-based playlists, song discovery, favorites, listening history, and user authentication | [Repo](⟪[url](https://github.com/Chalongkiet/Moodle)⟫) |
 
 <table>
 <tr>
