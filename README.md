@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-Enthusiastic Full-Stack Developer with strong OOP principles and a passion for building user-friendly software. Comfortable working across **frontend, backend, and mobile**, with a focus on delivering readable code and continuously growing technical skills.
+Enthusiastic Software Developer with strong OOP principles and a passion for building user-friendly software. Comfortable working across **frontend, backend, and mobile**, with a focus on delivering readable code and continuously growing technical skills.
 
 ```txt
 🚒  Currently building  : ResQ — a disaster relief platform (Mobile)
